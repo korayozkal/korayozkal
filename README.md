@@ -1,4 +1,4 @@
-## I am Koray, you can also call me Kory 👋 
+## Hello, I am Kory👋 
 
 ## I’m looking for opportunities in Software Engineering, Marketing and Product Management
 
