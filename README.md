@@ -15,7 +15,7 @@ About Me:
 
 Where You Can Find Me:
 * 📬 Email
-* 📬 [Email] (korayozkal@gmail.com)
+* [📬 [Email](korayozkal@gmail.com)
 * 💻 LinkedIn
 * 📝 Blog
 * 📄 Resume
