@@ -14,7 +14,7 @@ About Me:
 * My interests are: 💻 coding, 🎸 music, 📚 history, 🏀 basketball, 🥅🏒 hockey, 🎮 video games and 🎨 arts.
 
 Where You Can Find Me:
-* 📬 [Email](korayozkal@gmail.com)
+* 📬 [Email](mailto:korayozkal@gmail.com)
 * 💻 [LinkedIn](https://www.linkedin.com/in/korayozkal/)
 * 📝 [Blog](korayozkal.medium.com)
 * 📄 Resume
