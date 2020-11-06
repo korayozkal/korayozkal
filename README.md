@@ -1,6 +1,6 @@
 ## Hello, I am Kory👋 
 
-## I’m looking for opportunities in Software Engineering, Marketing and Product Management
+## I’m looking for opportunities in Software Engineering, Marketing and Project Management
 
 Marketing Strategist - Aspiring Software Engineer💻 , Former NBA Writer🏀 , Guitarist🤘
 
