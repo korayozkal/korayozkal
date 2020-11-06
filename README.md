@@ -4,6 +4,9 @@
 
 Marketing Strategist - Aspiring Software Engineer💻 , Former NBA Writer🏀 , Guitarist🤘
 
+![Koray’s github stats](https://github-readme-stats.vercel.app/api?username=korayozkal&&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkal&layout=compact)](https://github.com/korayozkal/github-readme-stats)
+
 About Me:
 * Originally from New York, recently moved to California 🏄🏻‍♂️
 * Marketing Strategist with Consulting background - experience with top tech. companies including Cisco, Citrix, Hitachi, Apple, Facebook, Ericsson, Siemens, NEC SK Planet,and more.📱
