@@ -14,7 +14,7 @@ About Me:
 * Tech. blogger writing for The Startup -  former  blogger for Europe's third-largest telecom operator in subscriber terms, Turkcell (NYSE: TKC).
 * In the final stage of completing Flatiron School's Full Stack Software Engineering program.🎓 Currently, working on React and Redux.
 * Studied Marketing & Public Relations - Digital Marketing Program at New York University🗽. 
-* My interests are: 💻 coding, 🎸 music, 📚 history, 🏀 basketball, 🥅🏒 hockey, 🎮 video games and 🎨 arts.
+* My interests are: 💻 coding, 🎸 music, 📚 history, 🏀 basketball, 🥅🏒 hockey,💥 comicbooks, 🎮 video games and 🎨 arts
 
 Where You Can Find Me:
 * 📬 [Email](mailto:korayozkal@gmail.com)
