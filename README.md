@@ -8,7 +8,7 @@ Marketing Strategist - Aspiring Software Engineer💻 , Former NBA Writer🏀 , 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkal&layout=compact)](https://github.com/korayozkal/github-readme-stats)
 
 About Me:
-* Originally from New York, recently moved to California 🏄🏻‍♂️
+* Recently moved to California 🏄🏻‍ from New York 🗽
 * Marketing Strategist with Consulting background - experience with top tech. companies including Cisco, Citrix, Hitachi, Apple, Facebook, Ericsson, Siemens, NEC SK Planet,and more.📱
 * Led global campaigns, whitepaper projects, market research, and events - in depth experience with IoT, M2M, Security, Smart Cities, AdTech, Mar-Tech and Digital Health.
 * Tech. blogger writing for [The Startup](https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb) -  former  blogger for Europe's third-largest telecom operator in subscriber terms, Turkcell (NYSE: TKC).
