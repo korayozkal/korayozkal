@@ -12,7 +12,7 @@ About Me:
 * Marketing Strategist with Consulting background - experience with top tech. companies including Cisco, Citrix, Hitachi, Apple, Facebook, Ericsson, Siemens, NEC SK Planet,and more.📱
 * Led global campaigns, whitepaper projects, market research, and events - in depth experience with IoT, M2M, Security, Smart Cities, AdTech, Mar-Tech and Digital Health.
 * Tech. blogger writing for [The Startup](https://medium.com/swlh/beginners-guide-to-building-a-rails-api-7b22aa7ec2fb) -  former  blogger for Europe's third-largest telecom operator in subscriber terms, Turkcell (NYSE: TKC).
-* In the final stage of completing Flatiron School's Full Stack Software Engineering program.🎓 Currently, working on React and Redux.
+* In the final stage of completing Flatiron School's Full Stack Software Engineering program.🎓 Currently, working on React, Redux, and Python.
 * Studied Marketing & Public Relations - Digital Marketing Program at New York University🗽. 
 * My interests are: 💻 coding, 🎸 music, 📚 history, 🏀 basketball, 🥅🏒 hockey,💥 comicbooks, 🎮 video games and 🎨 arts
 
