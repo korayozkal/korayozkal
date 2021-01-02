@@ -1,8 +1,6 @@
 ## Hello, I am Kory👋 
 
-## I’m looking for opportunities in Software Engineering, Marketing and Project Management
-
-Marketing Strategist - Aspiring Software Engineer💻 , Former NBA Writer🏀 , Guitarist🤘
+## Marketing Strategist - Aspiring Software Engineer💻 , Former NBA Writer🏀 , Guitarist🤘
 
 ![Koray’s github stats](https://github-readme-stats.vercel.app/api?username=korayozkal&&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkal&layout=compact)](https://github.com/korayozkal/github-readme-stats)
