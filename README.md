@@ -19,6 +19,6 @@ Where You Can Find Me:
 
 ⚡ Fun facts: 
 * While going to college, I was a professional NBA writer and met(-even played basketball) with NBA stars including Tony Parker, Mehmet Okur, Yao Ming, Dirk Nowitzki, Shawn Bradley, Peja Stojakovic, and Gordan Giricek.
-* Designed guitar picks for a European Rock Band - https://www.youtube.com/watch?v=n0_BC_TiRGg&ab_channel=emrah1272
+* Moderated Official web content and designed guitar picks for a European Rock Band - https://www.youtube.com/watch?v=n0_BC_TiRGg&ab_channel=emrah1272
 * Played guitar in a practise band with Fall Out Boys' studio guitarist.
 * Star Trek's Captain James T. Kirk was my ultimate hero when I was 6 years old. 🖖
